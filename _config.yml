@@ -6,7 +6,8 @@ description: 課程及活動內容
 
 # User settings
 username: <h1>經濟時事與多媒體出版</h1>
-user_description: 國立臺北大學
+footername: 國立臺北大學 <span class="love">❤</span> 經濟學系
+user_description: 彈性課程 x 實作導向
 user_title: 課程及活動內容
 email: mtlin@gm.ntpu.edu.tw
 twitter_username:
