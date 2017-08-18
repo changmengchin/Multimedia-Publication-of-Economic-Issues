@@ -5,13 +5,13 @@ description: 課程及活動內容
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: 茂廷老師
+username: 經濟時事與多媒體出版
 user_description: 國立臺北大學
-user_title: 經濟學系
+user_title: 課程及活動內容
 email: mtlin@gm.ntpu.edu.tw
 twitter_username:
 github_username:  tpemartin
-gplus_username:  
+gplus_username:
 
 # Google-analytics
 google-analytics:
