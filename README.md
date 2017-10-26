@@ -4,8 +4,8 @@
 - 臉書  
 - 網頁：  
     - [經濟時事與多媒體出版](https://github.com/tpemartin/Multimedia-Publication-of-Economic-Issues/)  
-    - [迷你課程](https://github.com/ntpuecon/minicourses)  
-    - [播客競賽](https://ntpuecon.github.io/podcastcompetition/)  
+  - [迷你課程](https://github.com/ntpuecon/minicourses)  
+  - [播客競賽](https://ntpuecon.github.io/podcastcompetition/)  
 
 
 
